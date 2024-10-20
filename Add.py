@@ -26,7 +26,7 @@ GITHUB_USERNAME = 'Swift-Sand'
 # Replace with your GitHub repository name
 REPO_NAME = 'HideInPlaneSight'
 # Replace with your personal access token
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = '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'
 # Name of the file to modify
 FILE_NAME = 'List'
 
